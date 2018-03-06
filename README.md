@@ -40,3 +40,6 @@ In the illustration the numbers 1, 2, and 8 are the "givens". They can not be ch
 http://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Sudoku-by-L2G-20050714_solution.svg/364px-Sudoku-by-L2G-20050714_solution.svg.png
 
 # Further Notes
+1. Start by creating the function to check a Row (one array)
+2. Next youll need to deal with Columns (they share a index)
+3. Finally tackle Regions 
