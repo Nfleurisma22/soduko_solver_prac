@@ -1,4 +1,6 @@
-# Python
+### Look at these inside a text editor
+
+## Python
 
 def done_or_not(board):
   rows = board
@@ -15,7 +17,7 @@ def done_or_not(board):
   return 'Finished!'
 
 
-# JS
+## JS
 
 const isValidList = (list) => {
   return list.every(Boolean) &&
