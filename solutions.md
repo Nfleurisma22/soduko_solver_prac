@@ -1,4 +1,4 @@
-### Look at these inside a text editor
+### Look at these inside a text editor or the raw for better formatting
 
 ## Python
 
